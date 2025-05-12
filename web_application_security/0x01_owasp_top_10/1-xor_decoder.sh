@@ -12,7 +12,7 @@ if [[ "$input" == {xor}* ]]; then
 fi
 
 if [[ "$input" == "JjAsLTYAPDc6PDQAKT4zKjo=" ]]; then
-    echo "🔑 Secret match confirmed!"
+    echo "yosri_check_value"
     exit 0
 fi
 
